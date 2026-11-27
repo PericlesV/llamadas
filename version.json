@@ -1,0 +1,36 @@
+{
+  "aplicacion": "Registro certificado de llamadas",
+  "version": "1.0.0",
+  "hash": "f2c8d436384cf91b",
+  "archivos": [
+    "./",
+    "app.css",
+    "app.js",
+    "fuentes/LiberationMono-Regular.ttf",
+    "fuentes/LiberationSans-Bold.ttf",
+    "fuentes/LiberationSans-BoldItalic.ttf",
+    "fuentes/LiberationSans-Italic.ttf",
+    "fuentes/LiberationSans-Regular.ttf",
+    "iconos/apple-touch-icon.png",
+    "iconos/icono-180.png",
+    "iconos/icono-192.png",
+    "iconos/icono-512.png",
+    "iconos/icono.svg",
+    "index.html",
+    "manifest.webmanifest",
+    "trabajador.js",
+    "version.json"
+  ],
+  "ort": {
+    "version": "1.31.0-dev.20260914-8d85527a0",
+    "carpeta": "ort/",
+    "archivos": [
+      "ort-wasm-simd-threaded.asyncify.mjs",
+      "ort-wasm-simd-threaded.asyncify.wasm",
+      "ort-wasm-simd-threaded.mjs",
+      "ort-wasm-simd-threaded.wasm"
+    ]
+  },
+  "transformers": "4.3.2",
+  "hash_wasm": "incrustado en app.js"
+}

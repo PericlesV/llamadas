@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Icono del Registro certificado de llamadas: auricular dentro de un sello, sobre burdeos.
+       Fondo completo (iOS aplica su propia máscara) y motivo dentro de la zona segura de los
+       iconos adaptables (radio del 40 %). -->
+  <rect width="512" height="512" fill="#7b1e2c"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#ffffff" stroke-width="14"/>
+  <circle cx="256" cy="256" r="146" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="4"/>
+  <g transform="translate(256 256) scale(9.4) translate(-11.6 -12.4)">
+    <path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"
+          fill="#ffffff" stroke="#ffffff" stroke-width="1.1" stroke-linejoin="round"/>
+  </g>
+</svg>
