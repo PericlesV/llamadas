@@ -20,7 +20,7 @@
 
 // scripts/construir.mjs sustituye el marcador por la versión y la huella del sitio: así cada
 // publicación cambia este archivo y el navegador detecta el service worker nuevo.
-const VERSION_SITIO = "1.0.0+f2c8d436384cf91b";
+const VERSION_SITIO = "1.0.0+031a214d4d10f55d";
 const PREFIJO = "registro-llamadas-app-";
 const META = "registro-llamadas-meta";
 const CLAVE_ACTIVA = "meta/version-activa";
